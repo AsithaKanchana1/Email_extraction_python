@@ -1,0 +1,4 @@
+pdfquery
+lxml
+pyquery
+six
